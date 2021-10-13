@@ -1,6 +1,6 @@
 # Budget Tracker App 🤑
 
-A complex budget tracker app 
+A unique and complex budget tracker app 
 
 ### [Live Site](https://silly-bartik-efb540.netlify.app/)
 
@@ -17,6 +17,8 @@ Learned:
 + React 
 + Context API 
 + Local Storage 
++ State Management 
++ Scalable React Folder Structure 
 + Reading Documentation
 + Speechly Voice Recognition Script 
 
