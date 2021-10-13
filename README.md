@@ -2,7 +2,7 @@
 
 A complex budget tracker app 
 
-### [Live Site](https://stupefied-ride-90a95b.netlify.app/)
+### [Live Site](https://silly-bartik-efb540.netlify.app/)
 
 Technologies Used: 
 + React.js
