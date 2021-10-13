@@ -1,6 +1,6 @@
 # Budget Tracker App 🤑
 
-A unique and complex budget tracker app 
+A unique and complex budget tracker app with voice recognition technology to create your budget. 2 categories: Income & Expense 
 
 ### [Live Site](https://silly-bartik-efb540.netlify.app/)
 
@@ -11,6 +11,8 @@ Technologies Used:
 + React Hooks
 + Context API 
 + Speechly 
++ Chart.js 
++ UUID 
 
 Learned: 
 + Javascript Topics 
