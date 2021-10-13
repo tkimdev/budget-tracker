@@ -1,6 +1,6 @@
 # Budget Tracker App 🤑
 
-A unique and complex budget tracker app with voice recognition technology to create your budget. 2 categories: Income & Expense 
+A unique and complex budget tracker app with voice recognition technology to create your budget. You can manually input your expenses or use your voice to 2 categories: Income & Expense
 
 ### [Live Site](https://silly-bartik-efb540.netlify.app/)
 
