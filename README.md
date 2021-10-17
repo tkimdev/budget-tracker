@@ -4,7 +4,7 @@ A unique and complex budget tracker app with voice recognition technology to cre
 
 ### [Live Site](https://silly-bartik-efb540.netlify.app/)
 
-Technologies Used: 
+### Technologies Used: 
 + React.js
 + Axios 
 + Material UI
@@ -14,7 +14,7 @@ Technologies Used:
 + Chart.js 
 + UUID 
 
-Learned: 
+### Learned: 
 + Javascript Topics 
 + React 
 + Context API 
@@ -25,7 +25,7 @@ Learned:
 + Speechly Voice Recognition Script 
 + Mobile Responsive 
 
-Setup:
+### Setup:
 - run ```npm i && npm start``` for both client and server side to start the development server
 
 ![asdsadsadsad](https://user-images.githubusercontent.com/68490255/137145121-815fe2e2-a6ad-46a6-8a75-d5dee87bd6bd.jpg)
